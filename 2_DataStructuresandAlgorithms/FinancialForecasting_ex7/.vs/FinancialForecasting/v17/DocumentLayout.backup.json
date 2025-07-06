@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Digital_Nurture_Cognizant\\2_DataStructuresandAlgorithms\\FinancialForecasting_ex7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21CBF5F0-9789-43FF-BF38-EFE89FEBAA4C}|FinancialForecasting\\FinancialForecasting.csproj|c:\\users\\kiit\\desktop\\digital_nurture_cognizant\\2_datastructuresandalgorithms\\financialforecasting_ex7\\financialforecasting\\financialforecasting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21CBF5F0-9789-43FF-BF38-EFE89FEBAA4C}|FinancialForecasting\\FinancialForecasting.csproj|solutionrelative:financialforecasting\\financialforecasting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinancialForecasting",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital_Nurture_Cognizant\\2_DataStructuresandAlgorithms\\FinancialForecasting_ex7\\FinancialForecasting\\FinancialForecasting.csproj",
+              "RelativeDocumentMoniker": "FinancialForecasting\\FinancialForecasting.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital_Nurture_Cognizant\\2_DataStructuresandAlgorithms\\FinancialForecasting_ex7\\FinancialForecasting\\FinancialForecasting.csproj",
+              "RelativeToolTip": "FinancialForecasting\\FinancialForecasting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T15:52:52.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
