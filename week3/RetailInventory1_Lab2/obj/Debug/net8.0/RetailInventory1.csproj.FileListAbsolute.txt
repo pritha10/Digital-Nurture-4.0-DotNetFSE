@@ -1,0 +1,5 @@
+C:\Users\KIIT\source\repos\RetailInventory1\obj\Debug\net8.0\RetailInventory1.csproj.AssemblyReference.cache
+C:\Users\KIIT\source\repos\RetailInventory1\obj\Debug\net8.0\RetailInventory1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\source\repos\RetailInventory1\obj\Debug\net8.0\RetailInventory1.AssemblyInfoInputs.cache
+C:\Users\KIIT\source\repos\RetailInventory1\obj\Debug\net8.0\RetailInventory1.AssemblyInfo.cs
+C:\Users\KIIT\source\repos\RetailInventory1\obj\Debug\net8.0\RetailInventory1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\bin\Debug\net8.0\ECommerceSearchSystem.exe
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\bin\Debug\net8.0\ECommerceSearchSystem.deps.json
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\bin\Debug\net8.0\ECommerceSearchSystem.runtimeconfig.json
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\bin\Debug\net8.0\ECommerceSearchSystem.dll
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\bin\Debug\net8.0\ECommerceSearchSystem.pdb
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\obj\Debug\net8.0\ECommerceSearchSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\obj\Debug\net8.0\ECommerceSearchSystem.AssemblyInfoInputs.cache
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\obj\Debug\net8.0\ECommerceSearchSystem.AssemblyInfo.cs
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\obj\Debug\net8.0\ECommerceSearchSystem.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\obj\Debug\net8.0\ECommerceSearchSystem.dll
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\obj\Debug\net8.0\refint\ECommerceSearchSystem.dll
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\obj\Debug\net8.0\ECommerceSearchSystem.pdb
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\obj\Debug\net8.0\ECommerceSearchSystem.genruntimeconfig.cache
+C:\Users\KIIT\source\repos\ECommerceSearchSystem\ECommerceSearchSystem\obj\Debug\net8.0\ref\ECommerceSearchSystem.dll
